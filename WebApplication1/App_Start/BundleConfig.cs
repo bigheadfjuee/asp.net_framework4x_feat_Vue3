@@ -23,7 +23,7 @@ namespace WebApplication1
                       "~/Scripts/bootstrap.js"));
 
             bundles.Add(new Bundle("~/bundles/vue").Include(
-                      "~/Scripts/vue*"));
+                      "~/Scripts/vue*"));            
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",

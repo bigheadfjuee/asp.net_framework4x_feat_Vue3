@@ -163,7 +163,7 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
-    <Content Include="Scripts\myComponent.js" />
+    <Content Include="Scripts\vue\myComponent.js" />
     <Content Include="Scripts\vue.global.js" />
     <Content Include="Scripts\vue3-sfc-loader.js" />
     <Content Include="Web.config" />
